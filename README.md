@@ -1,5 +1,12 @@
-## React Starter Kit — "isomorphic" web app boilerplate
+# Portfolio Yopefonic
 
+This project is to showcase any work and related history for Joost "Yopefonic" Elfering. Built using react this is the third incarnation.
+
+# Project setup
+
+Currently this project is built using React Starter Kit as a boilerplate and will be further developed and built upon this work.
+
+## React Starter Kit — "isomorphic" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
 > boilerplate for web development built on top of Facebook's
